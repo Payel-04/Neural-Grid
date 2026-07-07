@@ -1,0 +1,6 @@
+{
+  "name": "Gesture-Controlled Tetris",
+  "description": "An interactive, modern Tetris game featuring real-time hand gesture tracking via your webcam, built with React and computer vision.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
